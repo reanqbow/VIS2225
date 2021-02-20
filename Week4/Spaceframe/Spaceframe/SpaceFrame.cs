@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace Spaceframe
 {
-    //A Spaceframe class defined by outer and inner grids and strauts.
+    //A Spaceframe class defined by outer and inner grids and struts.
     class Spaceframe
     {
         public int outerRes, innerRes;
