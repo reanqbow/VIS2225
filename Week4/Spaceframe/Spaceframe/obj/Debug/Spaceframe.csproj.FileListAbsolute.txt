@@ -1,0 +1,6 @@
+D:\VIS2225\Week4\Spaceframe\Spaceframe\obj\Debug\Spaceframe.csprojAssemblyReference.cache
+D:\VIS2225\Week4\Spaceframe\Spaceframe\obj\Debug\Spaceframe.csproj.CoreCompileInputs.cache
+D:\VIS2225\Week4\Spaceframe\Spaceframe\bin\Spaceframe.dll
+D:\VIS2225\Week4\Spaceframe\Spaceframe\bin\Spaceframe.pdb
+D:\VIS2225\Week4\Spaceframe\Spaceframe\obj\Debug\Spaceframe.dll
+D:\VIS2225\Week4\Spaceframe\Spaceframe\obj\Debug\Spaceframe.pdb
