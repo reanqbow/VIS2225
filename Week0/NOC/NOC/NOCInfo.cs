@@ -8,8 +8,8 @@ namespace NOC
     {
         public override string Name
         {
-            get
-            {
+            get {
+                
                 return "NOC";
             }
         }
